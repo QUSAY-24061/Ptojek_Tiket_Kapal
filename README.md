@@ -18,3 +18,13 @@ Python 3.x
   -PyCharm / Notepad++
   -Sistem Operasi
   -Windows / Linux / macOS
+
+   2️. Kebutuhan Perangkat Keras (Hardware)
+  - Laptop / PC
+  - RAM minimal 2 GB (4 GB lebih baik)
+  - Penyimpanan minimal 100 MB
+
+# HOW TO USE/Bagaimana Cara Menggunakan
+Project Sistem Penjualan Tiket Kapal adalah aplikasi sederhana berbasis Python (Command Line Interface) yang digunakan untuk melakukan pemesanan tiket kapal berdasarkan rute perjalanan, kelas tiket, dan jumlah tiket. Sistem ini menampilkan daftar rute dan kelas tiket, menghitung total harga secara otomatis, serta menampilkan struk pembelian.
+
+Project ini dibuat untuk melatih pemahaman dasar pemrograman Python, khususnya penggunaan dictionary, input/output, dan logika perhitungan, serta sebagai contoh penerapan sistem penjualan sederhana tanpa menggunakan database.
